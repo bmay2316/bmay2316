@@ -1,2 +1,9 @@
 ## Hi there 👋
  Hello, my name is Brendan May and I am a data science student! Before switching to this program, I was a mechanical engineering major and decided to switch out of it to pursue data science. One similarity between the two programs is definitely how math heavy both of them are, which I really enjoy. I found data science very interesting due to the coding aspect and math aspect of it, since I have always had an interest in numbers. I'm hoping to get a remote job in data science or analytics in the future. 
+
+# Skills I Am Currently Developing:
+Python and R programming
+Data analysis and interpretation
+Explaining technical information clearly
+Teamwork and collaboration
+Problem-solving and independent coding
