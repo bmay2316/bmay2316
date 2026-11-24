@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brendan May | Data Science Portfolio</title>
+</head>
+<body>
+
+    <h1>Brendan May</h1>
+    <h2>Data Science Student at Oregon State University</h2>
+
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Brendan May, and I am a
+        data science student at Oregon State University.
+        I am interested in mathematics, programming,
+        statistics, and solving real-world problems.
+    </p>
+
+    <h2>Skills</h2>
+    <p>
+        Python, R, RStudio, GitHub, Statistical Analysis,
+        Linear Algebra, and Data Visualization.
+    </p>
+
+    <h2>Career Goals</h2>
+    <p>
+        My goal is to eventually work as a Data Scientist
+        or Data Analyst. I want to continue developing
+        my programming and statistical skills while
+        gaining practical experience through internships
+        and independent projects.
+    </p>
+
+</body>
+</html>
